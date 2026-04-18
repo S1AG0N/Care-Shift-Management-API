@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CareShiftAPI.Tests/CareShiftAPI.Tests.csproj" Id="850825b9-6948-48e0-aba8-f2e96a205fd0" />
+  <Project Path="CareShiftAPI.csproj" />
+</Solution>
